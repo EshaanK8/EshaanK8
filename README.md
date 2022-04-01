@@ -1,6 +1,6 @@
-### Hi, I'm Eshaan 👋
+## Hi, I'm Eshaan 👋
 
-Software engineering student at the University of Ottawa, with an affinity for all things tech.
+### Software engineering student at the University of Ottawa, with an affinity for all things tech.
 
 🔭 I’m currently working on: completing my second year of studies at the University of Ottawa.
 
