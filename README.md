@@ -3,7 +3,9 @@
 Software engineering student at the University of Ottawa, with an affinity for all things tech.
 
 🔭 I’m currently working on: completing my second year of studies at the University of Ottawa.
+
 🌱 I’m currently learning: technologies such as Swift and React to help bring my application ideas to fruition.
+
 📫 How to reach me: for contact info, visit my website https://eshaankunchur.netlify.app/
 
 <!--
